@@ -1,0 +1,6 @@
+{
+  "name": "Simba Zengeni Portfolio",
+  "description": "Professional portfolio site for Simba Zengeni, Lecturer, Projects Coordinator, and Specialist in AI & Software Engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
