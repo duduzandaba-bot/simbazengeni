@@ -189,7 +189,7 @@ export default function HomePage({ setCurrentPage }: HomePageProps) {
                   transition={{ duration: 0.5, ease: "easeInOut" }}
                   className="space-y-4"
                 >
-                  <p className="text-lg sm:text-xl md:text-2xl font-display font-medium text-[#E2E8FO] italic leading-relaxed">
+                  <p className="text-lg sm:text-xl md:text-2xl font-display font-medium text-white italic leading-relaxed">
                     "{quotes[quoteIndex].text}"
                   </p>
                   <p className="text-xs font-mono text-[#D4AF37]/80">
